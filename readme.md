@@ -1,6 +1,8 @@
 🛒 Green Basket — E-commerce Web Application
 Green Basket is a modern, full-stack e-commerce web application built with React (Vite), Node.js, Express, MongoDB, and Stripe for payment processing. It allows customers to browse products, manage carts, securely authenticate, and make payments with ease.
 
+Live Link - https://green-basket-gray.vercel.app/
+
 🔧 Tech Stack
 1. Frontend: React (Vite), Tailwind CSS, Axios
 2. Backend: Node.js, Express.js
