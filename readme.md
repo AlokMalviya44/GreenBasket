@@ -12,26 +12,26 @@ Green Basket is a modern, full-stack e-commerce web application built with React
 🚀 Features
 1. User & Admin authentication (JWT)
 2. Product listing, cart, and order management
-3. Admin dashboard for product upload
-4. Image upload via Cloudinary
-5. Stripe integration for payment
-6. Responsive design with modern UI
-7. Also to use seller features just add /seller in url
+3. User can place orders using COD and online payment and view them
+4. Admin dashboard for product upload, stock management and Order details
+5. Image upload via Cloudinary
+6. Stripe integration for payment
+7. Responsive design with modern UI
+8. Also to use seller features just add /seller in url
 
 🛠️ Installation & Setup
 
 1. Clone the Repository
-  1a. git clone https://github.com/your-username/green-basket.git
-  1b. cd green-basket
+2. git clone https://github.com/your-username/green-basket.git
+3. cd green-basket
 
-2. Setup Backend
-  2a. cd backend
-  2b. npm install
-  2c. Rename .env.example to .env and fill in your values.
-  2d. Start the backend server: npm start
+4. Setup Backend
+5. cd backend
+6. npm install
+7. Rename .env.example to .env and fill in your values.
+8. Start the backend server: npm start
 
-4. Setup Frontend
-
-  3a. cd ../frontend
-  3b. npm install
-  3c. npm run dev
+9. Setup Frontend
+10. cd ../frontend
+11. npm install
+12. npm run dev
