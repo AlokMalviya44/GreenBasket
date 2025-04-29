@@ -10,8 +10,8 @@ Media Storage: Cloudinary
 Payments: Stripe
 
 🚀 Features
-User & Admin authentication (JWT)
-Product listing, cart, and order management
+1. User & Admin authentication (JWT)
+2. Product listing, cart, and order management
 Admin dashboard for product upload
 Image upload via Cloudinary
 Stripe integration for payment
